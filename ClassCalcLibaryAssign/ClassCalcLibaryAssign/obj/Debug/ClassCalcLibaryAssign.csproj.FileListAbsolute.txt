@@ -1,0 +1,6 @@
+E:\Tranning\DotNetConsoleApps\August11Assignment\ClassCalcLibaryAssign\ClassCalcLibaryAssign\bin\Debug\ClassCalcLibaryAssign.dll
+E:\Tranning\DotNetConsoleApps\August11Assignment\ClassCalcLibaryAssign\ClassCalcLibaryAssign\bin\Debug\ClassCalcLibaryAssign.pdb
+E:\Tranning\DotNetConsoleApps\August11Assignment\ClassCalcLibaryAssign\ClassCalcLibaryAssign\obj\Debug\ClassCalcLibaryAssign.csprojAssemblyReference.cache
+E:\Tranning\DotNetConsoleApps\August11Assignment\ClassCalcLibaryAssign\ClassCalcLibaryAssign\obj\Debug\ClassCalcLibaryAssign.csproj.CoreCompileInputs.cache
+E:\Tranning\DotNetConsoleApps\August11Assignment\ClassCalcLibaryAssign\ClassCalcLibaryAssign\obj\Debug\ClassCalcLibaryAssign.dll
+E:\Tranning\DotNetConsoleApps\August11Assignment\ClassCalcLibaryAssign\ClassCalcLibaryAssign\obj\Debug\ClassCalcLibaryAssign.pdb

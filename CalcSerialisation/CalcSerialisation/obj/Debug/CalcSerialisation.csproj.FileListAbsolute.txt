@@ -1,0 +1,10 @@
+E:\Tranning\DotNetConsoleApps\August11Assignment\CalcSerialisation\CalcSerialisation\bin\Debug\CalcSerialisation.exe.config
+E:\Tranning\DotNetConsoleApps\August11Assignment\CalcSerialisation\CalcSerialisation\bin\Debug\CalcSerialisation.exe
+E:\Tranning\DotNetConsoleApps\August11Assignment\CalcSerialisation\CalcSerialisation\bin\Debug\CalcSerialisation.pdb
+E:\Tranning\DotNetConsoleApps\August11Assignment\CalcSerialisation\CalcSerialisation\bin\Debug\ClassCalcLibaryAssign.dll
+E:\Tranning\DotNetConsoleApps\August11Assignment\CalcSerialisation\CalcSerialisation\bin\Debug\ClassCalcLibaryAssign.pdb
+E:\Tranning\DotNetConsoleApps\August11Assignment\CalcSerialisation\CalcSerialisation\obj\Debug\CalcSerialisation.csprojAssemblyReference.cache
+E:\Tranning\DotNetConsoleApps\August11Assignment\CalcSerialisation\CalcSerialisation\obj\Debug\CalcSerialisation.csproj.CoreCompileInputs.cache
+E:\Tranning\DotNetConsoleApps\August11Assignment\CalcSerialisation\CalcSerialisation\obj\Debug\CalcSerialisation.csproj.CopyComplete
+E:\Tranning\DotNetConsoleApps\August11Assignment\CalcSerialisation\CalcSerialisation\obj\Debug\CalcSerialisation.exe
+E:\Tranning\DotNetConsoleApps\August11Assignment\CalcSerialisation\CalcSerialisation\obj\Debug\CalcSerialisation.pdb

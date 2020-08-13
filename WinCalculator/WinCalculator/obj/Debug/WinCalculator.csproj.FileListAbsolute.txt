@@ -1,0 +1,13 @@
+E:\Tranning\DotNetConsoleApps\August11Assignment\WinCalculator\WinCalculator\bin\Debug\WinCalculator.exe.config
+E:\Tranning\DotNetConsoleApps\August11Assignment\WinCalculator\WinCalculator\bin\Debug\WinCalculator.exe
+E:\Tranning\DotNetConsoleApps\August11Assignment\WinCalculator\WinCalculator\bin\Debug\WinCalculator.pdb
+E:\Tranning\DotNetConsoleApps\August11Assignment\WinCalculator\WinCalculator\bin\Debug\ClassCalcLibaryAssign.dll
+E:\Tranning\DotNetConsoleApps\August11Assignment\WinCalculator\WinCalculator\bin\Debug\ClassCalcLibaryAssign.pdb
+E:\Tranning\DotNetConsoleApps\August11Assignment\WinCalculator\WinCalculator\obj\Debug\WinCalculator.csprojAssemblyReference.cache
+E:\Tranning\DotNetConsoleApps\August11Assignment\WinCalculator\WinCalculator\obj\Debug\WinCalculator.Form1.resources
+E:\Tranning\DotNetConsoleApps\August11Assignment\WinCalculator\WinCalculator\obj\Debug\WinCalculator.Properties.Resources.resources
+E:\Tranning\DotNetConsoleApps\August11Assignment\WinCalculator\WinCalculator\obj\Debug\WinCalculator.csproj.GenerateResource.cache
+E:\Tranning\DotNetConsoleApps\August11Assignment\WinCalculator\WinCalculator\obj\Debug\WinCalculator.csproj.CoreCompileInputs.cache
+E:\Tranning\DotNetConsoleApps\August11Assignment\WinCalculator\WinCalculator\obj\Debug\WinCalculator.csproj.CopyComplete
+E:\Tranning\DotNetConsoleApps\August11Assignment\WinCalculator\WinCalculator\obj\Debug\WinCalculator.exe
+E:\Tranning\DotNetConsoleApps\August11Assignment\WinCalculator\WinCalculator\obj\Debug\WinCalculator.pdb
